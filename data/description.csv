@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
 可燃物,,,img/moyasu02.svg,#ea3b13
-プラマークあり,,,img/moyasanai02.svg,#733b96
-プラマークなし,,,img/moyasanai02.svg,#733b96
-金物,,,img/bin02.svg,#2dc7aa
-ガラス,,,img/bin02.svg,#2dc7aa
-ペットボトル,,,img/shigen02.svg,#77ae1f
+プラマークあり,,,img/shigen02.svg,#13c4e1
+プラマークなし,,,img/moyasanai02.svg,#ba5ed5
+金物,,,img/moyasanai02.svg,#685ecf
+ガラス,,,img/bin02.svg,#91dde7
+ペットボトル,,,img/shigen02.svg,#81d12e
 陶磁器,,,img/bin02.svg,#2dc7aa
